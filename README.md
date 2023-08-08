@@ -1,9 +1,11 @@
 # Welcome to my github profile!
 <p>
 <font size="4">
-Hi there! I'm Daniel and I like to code stuff!
-In over 20 years of private and professional experience as a software developer,
-I've been working with the following languages, frameworks and databases extensively: 
+Hi there! <br>
+
+I'm Daniel and I like to code stuff!<br>
+In over 20 years of private and professional experience as a software developer,<br>
+I've been working with the following languages, frameworks and databases extensively:
 </font>
 </p>
 
